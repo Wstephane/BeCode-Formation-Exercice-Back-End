@@ -1,0 +1,1 @@
+Petit exercice à l'improviste de notre coatch, fait en php pendant la formation BeCode.
