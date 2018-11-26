@@ -1,0 +1,1 @@
+Exercice sur les variables en PHP, fait durant la formation BeCode.
