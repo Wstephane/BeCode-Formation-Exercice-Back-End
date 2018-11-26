@@ -1,0 +1,1 @@
+Exercice sur le PDO en PHP, fait pendant la formation BeCode.
